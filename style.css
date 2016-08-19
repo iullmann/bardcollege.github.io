@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: rb(159, 192, 128);
     text-decoration: none;
 }
 
